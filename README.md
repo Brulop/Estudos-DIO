@@ -1,5 +1,5 @@
 # Estudos-DIO
-anotações cursos da dio
+anotações cursos já concluidos neste bootcamp:
 [Santander Code Girls](https://web.dio.me/track/santander-code-girls)
 Curso1 - Introdução a programação e pensamento computacional
 Curso2 - Introdução ao git e github
